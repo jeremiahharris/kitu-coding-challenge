@@ -1,0 +1,18 @@
+{
+  "name": "kitu",
+  "version": "1.0.0",
+  "description": "Kitu Coding Challenge: ﻿Random User API",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "author": "Jeremiah Harris",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
